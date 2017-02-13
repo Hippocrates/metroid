@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-sceneSetups: []
-=======
 sceneSetups:
-- path: Assets/Scenes/Test.unity
+- path: Assets/Scenes/brinstar1.unity
   isLoaded: 1
   isActive: 1
->>>>>>> MetroidVR_Development
